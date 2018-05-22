@@ -1,0 +1,90 @@
+#! /usr/bin/env python3
+import os
+import sys
+import subprocess
+from enigmamachine import enigma
+
+def main():
+    if len(sys.argv) < 2:
+        help_display()
+        exit()
+
+    arg_dict = arg_parse(sys.argv[1:])
+    
+    if arg_dict['help']:
+        help_display()
+        exit()
+    
+    if arg_dict['infile'] != None:#can possibly simplify
+        arg_dict['message'] = infile_load(arg_dict['infile'])
+
+    e = enigma.Machine()
+    translated_message = e.translate(arg_dict['message'], arg_dict['day'])
+
+    if arg_dict['outfile'] != None:
+        outfile_write(translated_message, arg_dict['outfile'])
+    else:
+        print(translated_message)
+
+def arg_parse(args):
+    arg_dict = {'infile' : None,
+                'outfile' : None,
+                'day' : 0,
+                'verbose' : False,
+                'help' : False,
+                'message' : None}
+    remaining_args = list(args)
+    
+    for arg, nextarg in zip(args, args[1:]+[""]):
+        if arg[0] == '-':
+            remaining_args.remove(arg)
+            if arg in ['-i', '--infile']:
+                arg_dict['infile'] = nextarg
+                remaining_args.remove(nextarg)
+            elif arg in ['-o', '--outfile']:
+                arg_dict['outfile'] = nextarg
+                remaining_args.remove(nextarg)
+            elif arg in ['-d', '--day']:
+                if int(nextarg) > 31 or int(nextarg) < 1:
+                    print("ERROR 2: Day out of range [1, 31].")
+                    exit()
+                arg_dict['day'] = int(nextarg) - 1
+                remaining_args.remove(nextarg)
+            elif arg in ['-v', '--verbose']:
+                arg_dict['verbose'] = True
+            elif arg in ['-h', '--help']:
+                arg_dict['help'] = True
+    
+    if len(remaining_args) == 1:
+        arg_dict['message'] = remaining_args[0]
+    elif len(remaining_args) == 0:
+        arg_dict['message'] = None
+    else:
+        print("ERROR 1: Too many arguments.")
+        exit()
+
+    return arg_dict
+
+def help_display():
+    subprocess.call(['man', 'enigma']);
+
+def infile_load(path):
+    if path[0] + path[1] == '~/':
+        path = os.path.expanduser(path)
+    elif path[0] != '/':
+        path = os.getcwd() + '/' + path
+    
+    try:
+        with open(path, 'r') as f:
+            message = f.read()
+        return message
+    except FileNotFoundError:
+        print("ERROR 3: Infile does not exist.")
+        exit()
+
+def outfile_write(message, path):
+    with open(path, 'w') as f:
+        f.write(message)
+
+# MAIN PROGRAM #
+main()

@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="645175e3-91b2-4b61-8eaf-9f9a7d7ef13d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Enigma$mailbot.coverage" NAME="mailbot Coverage Results" MODIFIED="1523645145118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Enigma$fenuigr.coverage" NAME="fenuigr Coverage Results" MODIFIED="1523041470821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Enigma$decrypt.coverage" NAME="decrypt Coverage Results" MODIFIED="1522253039081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Enigma$mailbot__1_.coverage" NAME="mailbot (1) Coverage Results" MODIFIED="1523646123355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MailBot_SendMail" />
+    <SUITE FILE_PATH="coverage/Enigma$decrypt__1_.coverage" NAME="decrypt (1) Coverage Results" MODIFIED="1522868459372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Enigma$encrypt.coverage" NAME="encrypt Coverage Results" MODIFIED="1524486694915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Enigma$suppressionConsole.coverage" NAME="suppressionConsole Coverage Results" MODIFIED="1524487232033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Applications de gestion/exercicegraphique/question1" />
+    <SUITE FILE_PATH="coverage/Enigma$sendmai.coverage" NAME="sendmai Coverage Results" MODIFIED="1523039601841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Enigma$sendemail__1_.coverage" NAME="sendemail (1) Coverage Results" MODIFIED="1523645909539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MailBot_SendMail" />
+    <SUITE FILE_PATH="coverage/Enigma$sendemail.coverage" NAME="sendemail Coverage Results" MODIFIED="1523638479722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="courserobot.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="courserobot.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="courserobot.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tkinter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Applications de gestion/exercicegraphique/tkinter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="suppressionConsole.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../Applications de gestion/exercicegraphique/question1/suppressionConsole.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="161" column="10" lean-forward="true" selection-start-line="161" selection-start-column="10" selection-end-line="161" selection-end-column="10" />
+              <folding>
+                <marker date="1521045958368" expanded="true" signature="5455:5515" ph="select id, n... coffreacrayon" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/decrypt.py" />
+        <option value="$PROJECT_DIR$/DECRPYTAGE.py" />
+        <option value="$PROJECT_DIR$/SETTING_SHEETS.py" />
+        <option value="$PROJECT_DIR$/../decrypt.py" />
+        <option value="$PROJECT_DIR$/sendmai.py" />
+        <option value="$PROJECT_DIR$/fenuigr.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/baeb53ee-3aa6-43b7-968b-4980831a0e9a/console.sql" />
+        <option value="$PROJECT_DIR$/sendemail.py" />
+        <option value="$PROJECT_DIR$/zombie.txt" />
+        <option value="$PROJECT_DIR$/mailbot.py" />
+        <option value="$PROJECT_DIR$/MailBot_SendMail/spam.txt" />
+        <option value="$PROJECT_DIR$/MailBot_SendMail/mailbot.py" />
+        <option value="$PROJECT_DIR$/MailBot_SendMail/sendemail.py" />
+        <option value="$PROJECT_DIR$/MailBot_SendMail/zombie.txt" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2e3edd45-a4e7-4cff-a80b-45a6baa798a7/console.sql" />
+        <option value="$PROJECT_DIR$/encrypt.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1141" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Enigma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Enigma" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Enigma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Enigma" type="462c0819:PsiDirectoryNode" />
+              <item name="MailBot_SendMail" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Applications de gestion/exercicegraphique/tkinter.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lisa_\Google Drive\Informatique\Réseautique 2\Enigma\Enigma" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lisa_\Google Drive\Informatique\Réseautique 2\Enigma\Enigma\venv\Lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.suppressionConsole">
+    <configuration name="encrypt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Enigma" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encrypt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="fenuigr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="-s" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Enigma" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lisa_\Google Drive\Informatique\Réseautique 2\Enigma\Enigma\sendemail.py" />
+      <option name="PARAMETERS" value="1 2 3 4 5 6" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="mailbot (1)" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="-s" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MailBot_SendMail" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Enigma" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MailBot_SendMail/mailbot.py" />
+      <option name="PARAMETERS" value="spam.txt zombie.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="mailbot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="-s" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Enigma" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mailbot.py" />
+      <option name="PARAMETERS" value="spam.txt zombie.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sendemail (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MailBot_SendMail" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Enigma" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MailBot_SendMail/sendemail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sendemail" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="-s" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Enigma" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sendemail.py" />
+      <option name="PARAMETERS" value="caissy.lisa@carrefour.cegepvicto.ca caissy.lisa@carrefour.cegepvicto.ca MOTPASSE caissy.lisa@carrefour.cegepvicto.ca &quot;Bonjour&quot; &quot;On lache pas!&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="suppressionConsole" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Applications de gestion/exercicegraphique/question1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Enigma" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Applications de gestion/exercicegraphique/question1/suppressionConsole.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.mailbot (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sendemail" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fenuigr" />
+      <item index="3" class="java.lang.String" itemvalue="Python.mailbot" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sendemail (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Python.encrypt" />
+      <item index="6" class="java.lang.String" itemvalue="Python.suppressionConsole" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.suppressionConsole" />
+        <item index="1" class="java.lang.String" itemvalue="Python.encrypt" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sendemail (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.mailbot" />
+        <item index="4" class="java.lang.String" itemvalue="Python.fenuigr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="645175e3-91b2-4b61-8eaf-9f9a7d7ef13d" name="Default" comment="" />
+      <created>1522086259545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522086259545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33116883" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17963752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12846482" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21103896" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/py-enigma/enigma/docs/source/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/py-enigma/enigma/docs/source/guide.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5fe823f6-0a07-4867-a912-eeaa7cb51f5e/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5fe823f6-0a07-4867-a912-eeaa7cb51f5e.SCHEMA:main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5fe823f6-0a07-4867-a912-eeaa7cb51f5e.SCHEMA:main</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="69.0" y="88.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4c6d6d75-42c5-418c-ba40-16a0dda8bd13/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/4c6d6d75-42c5-418c-ba40-16a0dda8bd13.SCHEMA:main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>4c6d6d75-42c5-418c-ba40-16a0dda8bd13.SCHEMA:main</OriginalElement>
+          <nodes>
+            <node x="160.0" y="234.0">4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.animaux</node>
+            <node x="135.25" y="55.0">4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.types</node>
+            <node x="0.0" y="267.0">4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.raisonsvisite</node>
+            <node x="520.25" y="0.0">4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.sqlite_master</node>
+            <node x="293.25" y="0.0">4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.proprietaires</node>
+            <node x="160.0" y="424.0">4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.consultations</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.consultations" target="4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.raisonsvisite">
+              <point x="-59.0" y="-81.0" />
+              <point x="189.5" y="399.0" />
+              <point x="70.0" y="399.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.animaux" target="4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.proprietaires">
+              <point x="44.25" y="-70.0" />
+              <point x="292.75" y="209.0" />
+              <point x="337.75" y="209.0" />
+              <point x="-44.5" y="92.0" />
+            </edge>
+            <edge source="4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.consultations" target="4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.proprietaires">
+              <point x="59.0" y="-81.0" />
+              <point x="307.5" y="399.0" />
+              <point x="426.75" y="399.0" />
+              <point x="44.5" y="92.0" />
+            </edge>
+            <edge source="4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.consultations" target="4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.animaux">
+              <point x="0.0" y="-81.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.animaux" target="4c6d6d75-42c5-418c-ba40-16a0dda8bd13.TABLE:main.types">
+              <point x="-44.25" y="-70.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="334.0" y="293.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DECRPYTAGE.py" />
+    <entry file="file://$PROJECT_DIR$/decrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Applications de gestion/basedonneesexercices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/1fbe0203-439c-4375-9e91-fdbb2d275261">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>1fbe0203-439c-4375-9e91-fdbb2d275261</OriginalElement>
+          <nodes>
+            <node x="" y="">1fbe0203-439c-4375-9e91-fdbb2d275261.TABLE:main.sqlite_master</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="73.0" y="70.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1fbe0203-439c-4375-9e91-fdbb2d275261/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ab5ac597-cd58-4c47-bd89-4bc9653f4e52/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/librairy-enigma/py-enigma-0.1/enigma/docs/source/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="80" lean-forward="false" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/py-enigma/enigma/machine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SETTING_SHEETS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="85" lean-forward="false" selection-start-line="42" selection-start-column="85" selection-end-line="42" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../decrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/py-enigma/enigma/keyfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendmai.py" />
+    <entry file="uml://DATABASE/19908f67-0a87-42f0-8f2b-e2a6e469b65e.SCHEMA:main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>19908f67-0a87-42f0-8f2b-e2a6e469b65e.SCHEMA:main</OriginalElement>
+          <nodes>
+            <node x="" y="">19908f67-0a87-42f0-8f2b-e2a6e469b65e.TABLE:main.periodes</node>
+            <node x="" y="">19908f67-0a87-42f0-8f2b-e2a6e469b65e.TABLE:main.cadets</node>
+            <node x="" y="">19908f67-0a87-42f0-8f2b-e2a6e469b65e.TABLE:main.sqlite_master</node>
+            <node x="" y="">19908f67-0a87-42f0-8f2b-e2a6e469b65e.TABLE:main.etablissements</node>
+            <node x="" y="">19908f67-0a87-42f0-8f2b-e2a6e469b65e.TABLE:main.grades</node>
+            <node x="" y="">19908f67-0a87-42f0-8f2b-e2a6e469b65e.TABLE:main.instructeurs</node>
+            <node x="" y="">19908f67-0a87-42f0-8f2b-e2a6e469b65e.TABLE:main.echelons</node>
+            <node x="" y="">19908f67-0a87-42f0-8f2b-e2a6e469b65e.TABLE:main.cours</node>
+            <node x="" y="">19908f67-0a87-42f0-8f2b-e2a6e469b65e.TABLE:main.specialites</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="292.0" y="300.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/19908f67-0a87-42f0-8f2b-e2a6e469b65e/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d54d7750-2728-418c-90c7-aee5d115898d/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/d54d7750-2728-418c-90c7-aee5d115898d.SCHEMA:main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>d54d7750-2728-418c-90c7-aee5d115898d.SCHEMA:main</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9601769911504425" x="63.0" y="180.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/76ee4ecb-e865-4667-840a-334db1581fcd.SCHEMA:main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>76ee4ecb-e865-4667-840a-334db1581fcd.SCHEMA:main</OriginalElement>
+          <nodes>
+            <node x="" y="">76ee4ecb-e865-4667-840a-334db1581fcd.TABLE:main.instructeurs</node>
+            <node x="" y="">76ee4ecb-e865-4667-840a-334db1581fcd.TABLE:main.cadets</node>
+            <node x="" y="">76ee4ecb-e865-4667-840a-334db1581fcd.TABLE:main.periodes</node>
+            <node x="" y="">76ee4ecb-e865-4667-840a-334db1581fcd.TABLE:main.cours</node>
+            <node x="" y="">76ee4ecb-e865-4667-840a-334db1581fcd.TABLE:main.grades</node>
+            <node x="" y="">76ee4ecb-e865-4667-840a-334db1581fcd.TABLE:main.specialites</node>
+            <node x="" y="">76ee4ecb-e865-4667-840a-334db1581fcd.TABLE:main.echelons</node>
+            <node x="" y="">76ee4ecb-e865-4667-840a-334db1581fcd.TABLE:main.etablissements</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5031446540880503" x="1014.0" y="793.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/ab5ac597-cd58-4c47-bd89-4bc9653f4e52.SCHEMA:main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>ab5ac597-cd58-4c47-bd89-4bc9653f4e52.SCHEMA:main</OriginalElement>
+          <nodes>
+            <node x="" y="">ab5ac597-cd58-4c47-bd89-4bc9653f4e52.TABLE:main.animaux</node>
+            <node x="" y="">ab5ac597-cd58-4c47-bd89-4bc9653f4e52.TABLE:main.types</node>
+            <node x="" y="">ab5ac597-cd58-4c47-bd89-4bc9653f4e52.TABLE:main.proprietaires</node>
+            <node x="" y="">ab5ac597-cd58-4c47-bd89-4bc9653f4e52.TABLE:main.consultations</node>
+            <node x="" y="">ab5ac597-cd58-4c47-bd89-4bc9653f4e52.TABLE:main.raisonsvisite</node>
+            <node x="" y="">ab5ac597-cd58-4c47-bd89-4bc9653f4e52.TABLE:main.sqlite_master</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6986899563318777" x="808.0" y="571.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/76ee4ecb-e865-4667-840a-334db1581fcd/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/69352cf1/baeb53ee-3aa6-43b7-968b-4980831a0e9a/main.hotels" />
+    <entry file="das://table:/69352cf1/baeb53ee-3aa6-43b7-968b-4980831a0e9a/main.sejours" />
+    <entry file="das://table:/69352cf1/baeb53ee-3aa6-43b7-968b-4980831a0e9a/main.clients" />
+    <entry file="uml://DATABASE/baeb53ee-3aa6-43b7-968b-4980831a0e9a.SCHEMA:main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>baeb53ee-3aa6-43b7-968b-4980831a0e9a.SCHEMA:main</OriginalElement>
+          <nodes>
+            <node x="212.0" y="481.0">baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.consommation_sejour</node>
+            <node x="0.0" y="470.0">baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.cartedeconsommations</node>
+            <node x="525.375" y="0.0">baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.sqlite_master</node>
+            <node x="331.375" y="0.0">baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.clients</node>
+            <node x="300.125" y="279.0">baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.sejours</node>
+            <node x="132.5" y="312.0">baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.consommations</node>
+            <node x="36.125" y="11.0">baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.hotels</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.consommation_sejour" target="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.sejours">
+              <point x="48.0" y="-48.5" />
+              <point x="356.0" y="445.0" />
+              <point x="370.625" y="445.0" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.cartedeconsommations" target="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.consommations">
+              <point x="48.0" y="-59.5" />
+              <point x="144.0" y="445.0" />
+              <point x="167.25" y="445.0" />
+              <point x="-34.75" y="37.5" />
+            </edge>
+            <edge source="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.consommation_sejour" target="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.consommations">
+              <point x="-48.0" y="-48.5" />
+              <point x="260.0" y="445.0" />
+              <point x="236.75" y="445.0" />
+              <point x="34.75" y="37.5" />
+            </edge>
+            <edge source="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.sejours" target="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.hotels">
+              <point x="-35.25" y="-70.5" />
+              <point x="335.375" y="254.0" />
+              <point x="147.875" y="254.0" />
+              <point x="37.25" y="103.5" />
+            </edge>
+            <edge source="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.sejours" target="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.clients">
+              <point x="35.25" y="-70.5" />
+              <point x="0.0" y="114.5" />
+            </edge>
+            <edge source="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.cartedeconsommations" target="baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.hotels">
+              <point x="-48.0" y="-59.5" />
+              <point x="48.0" y="445.0" />
+              <point x="73.375" y="445.0" />
+              <point x="-37.25" y="103.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="8.0" y="198.0" />
+          <SelectedNodes>
+            <node>baeb53ee-3aa6-43b7-968b-4980831a0e9a.TABLE:main.hotels</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/baeb53ee-3aa6-43b7-968b-4980831a0e9a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spam.txt" />
+    <entry file="file://$PROJECT_DIR$/zombie.txt" />
+    <entry file="file://$PROJECT_DIR$/mailbot.py" />
+    <entry file="file://$PROJECT_DIR$/sendemail.py" />
+    <entry file="file://$PROJECT_DIR$/MailBot_SendMail/sendemail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MailBot_SendMail/mailbot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MailBot_SendMail/spam.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MailBot_SendMail/zombie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="80" lean-forward="false" selection-start-line="0" selection-start-column="80" selection-end-line="0" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/32325c9e-406d-4de0-8520-9b2a285f2c45.SCHEMA:main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>32325c9e-406d-4de0-8520-9b2a285f2c45.SCHEMA:main</OriginalElement>
+          <nodes>
+            <node x="" y="">32325c9e-406d-4de0-8520-9b2a285f2c45.TABLE:main.clients</node>
+            <node x="" y="">32325c9e-406d-4de0-8520-9b2a285f2c45.TABLE:main.consommation_sejour</node>
+            <node x="" y="">32325c9e-406d-4de0-8520-9b2a285f2c45.TABLE:main.sqlite_master</node>
+            <node x="" y="">32325c9e-406d-4de0-8520-9b2a285f2c45.TABLE:main.hotels</node>
+            <node x="" y="">32325c9e-406d-4de0-8520-9b2a285f2c45.TABLE:main.sejours</node>
+            <node x="" y="">32325c9e-406d-4de0-8520-9b2a285f2c45.TABLE:main.cartedeconsommations</node>
+            <node x="" y="">32325c9e-406d-4de0-8520-9b2a285f2c45.TABLE:main.consommations</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="336.0" y="295.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/32325c9e-406d-4de0-8520-9b2a285f2c45/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/69352cf1/2e3edd45-a4e7-4cff-a80b-45a6baa798a7/main.courses">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/69352cf1/2e3edd45-a4e7-4cff-a80b-45a6baa798a7/main.inscriptions">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/2e3edd45-a4e7-4cff-a80b-45a6baa798a7.SCHEMA:main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>2e3edd45-a4e7-4cff-a80b-45a6baa798a7.SCHEMA:main</OriginalElement>
+          <nodes>
+            <node x="0.0" y="338.0">2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.courses</node>
+            <node x="59.25" y="485.0">2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.inscriptions</node>
+            <node x="159.0" y="338.0">2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.robots</node>
+            <node x="378.0" y="0.0">2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.sqlite_master</node>
+            <node x="174.0" y="147.0">2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.concepteurs</node>
+            <node x="193.5" y="0.0">2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.cegeps</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.inscriptions" target="2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.courses">
+              <point x="-49.25" y="-70.5" />
+              <point x="108.5" y="460.0" />
+              <point x="69.5" y="460.0" />
+              <point x="0.0" y="48.5" />
+            </edge>
+            <edge source="2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.concepteurs" target="2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.cegeps">
+              <point x="1.4210854715202004E-14" y="-70.5" />
+              <point x="0.0" y="48.5" />
+            </edge>
+            <edge source="2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.robots" target="2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.concepteurs">
+              <point x="0.0" y="-48.5" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.inscriptions" target="2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.robots">
+              <point x="49.25" y="-70.5" />
+              <point x="207.0" y="460.0" />
+              <point x="246.0" y="460.0" />
+              <point x="0.0" y="48.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7430340557275542" x="262.0" y="313.0" />
+          <SelectedNodes>
+            <node>2e3edd45-a4e7-4cff-a80b-45a6baa798a7.TABLE:main.courses</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/encrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2e3edd45-a4e7-4cff-a80b-45a6baa798a7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Applications de gestion/exercicegraphique/question1/appgraphique.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Applications de gestion/exercicegraphique/question1/question1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Applications de gestion/exercicegraphique/question1/changerinformations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-793">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Applications de gestion/formatif/formatif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-416">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518547037417" expanded="true" signature="408:468" ph="INSERT INTO rendezvous... " />
+            <marker date="1518547037417" expanded="true" signature="701:764" ph="select id,ti... rendezvous" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Applications de gestion/exercicegraphique/tkinter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Applications de gestion/exercicegraphique/question1/suppressionConsole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="161" column="10" lean-forward="true" selection-start-line="161" selection-start-column="10" selection-end-line="161" selection-end-column="10" />
+          <folding>
+            <marker date="1521045958368" expanded="true" signature="5455:5515" ph="select id, n... coffreacrayon" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
